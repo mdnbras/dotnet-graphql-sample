@@ -1,0 +1,16 @@
+{
+  "name": "graphql-poc",
+  "version": "1.0.0",
+  "scripts": {
+    "generate": "yarn codegen",
+    "start": "graphql-codegen --config ./codegen.yml --watch",
+    "codegen": "graphql-codegen --config ./codegen.yml"
+  },
+  "dependencies": {
+    "@graphql-codegen/add": "1.17.0",
+    "@graphql-codegen/c-sharp": "1.17.7",
+    "@graphql-codegen/c-sharp-operations": "1.17.7",
+    "@graphql-codegen/cli": "1.17.0",
+    "graphql": "15.3.0"
+  }
+}

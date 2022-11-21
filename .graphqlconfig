@@ -1,0 +1,15 @@
+{
+  "name": "Pipefy Graphql Endpoint",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "Pipefy GraphQL Endpoint": {
+        "url": "https://api.pipefy.com/graphql",
+        "headers": {
+          "Authorization": "Bearer xxxxxxxxxxxx"
+        },
+        "introspect": false
+      }
+    }
+  }
+}

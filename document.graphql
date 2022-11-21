@@ -1,0 +1,12 @@
+query consultarCard($cardId: ID!) { 
+    card(id: $cardId) { 
+        id 
+        fields { 
+            value 
+            field 
+            {
+                id
+            } 
+        } 
+    } 
+}

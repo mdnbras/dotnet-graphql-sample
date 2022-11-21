@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "udjab7flHpoidjAsDtjol/yitw7TuVt+/BhiLhkWtMqm+wUZDRwXTpYEUP20RyHL8s0FyqIaxZiNottAQKQqfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\RiderProjects\\GraphQLPOC\\GraphQLPOC\\GraphQLPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\graphql\\5.3.3\\graphql.5.3.3.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\graphql-parser\\8.0.0\\graphql-parser.8.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

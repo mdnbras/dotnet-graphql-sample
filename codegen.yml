@@ -1,0 +1,13 @@
+schema: schema.graphql
+documents: document.graphql
+generates:
+  GraphQLPOC/Operations.cs:
+    plugins:
+      - c-sharp-operations
+    config:
+      namespaceName: GraphQLPOC.GraphQLPOC
+  GraphQLPOC/Types.cs:
+    plugins:
+      - c-sharp
+    config:
+      namespaceName: GraphQLPOC.GraphQLPOC
